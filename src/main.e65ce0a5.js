@@ -14433,7 +14433,7 @@
     var Za = "IN_PROGRESS",
       es = "WIN",
       as = "FAIL",
-      ss = ["Genius", "Magnificent", "Impressive", "Splendid", "Great", "Phew"],
+      ss = ["I see you cheatin' ;)", "Magnificent", "Impressive", "Splendid", "Great", "Phew"],
       ts = (function (e) {
         r(t, e);
         var a = h(t);
